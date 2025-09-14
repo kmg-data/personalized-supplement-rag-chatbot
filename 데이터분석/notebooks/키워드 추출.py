@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 ### 감성 분석+리뷰 요약 데이터프레임 불러오기
 
-df = pd.read_csv('sample.csv')
+df = pd.read_csv(''데이터분석/한글+영어 최종본_sample.csv'')
 
 ### 카테고리 열에서 내가 담당한 '아연'과 '오메가3'만 불러오기
 
